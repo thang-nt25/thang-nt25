@@ -54,8 +54,8 @@ Chào bạn! Tôi là một **Full-Stack Developer** tập trung vào phát tri�
 ## 📊 Thống kê GitHub (GitHub Stats)
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thang-nt25&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thang-nt25&layout=compact&theme=radical" alt="Top Languages" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api?username=thang-nt25&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=thang-nt25&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center">
